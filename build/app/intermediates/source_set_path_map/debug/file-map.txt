@@ -1,0 +1,28 @@
+com.example.notes_app-jetified-window-1.0.0-beta04-0 C:\Users\HP\.gradle\caches\transforms-3\032f4dff274e516110d9363a9793a3e3\transformed\jetified-window-1.0.0-beta04\res
+com.example.notes_app-jetified-window-java-1.0.0-beta04-1 C:\Users\HP\.gradle\caches\transforms-3\142c24f2530665bb6deb4123ab140714\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.notes_app-jetified-play-services-measurement-api-21.5.1-2 C:\Users\HP\.gradle\caches\transforms-3\2215a65f1d63c7c01a15e4ac54d8025f\transformed\jetified-play-services-measurement-api-21.5.1\res
+com.example.notes_app-lifecycle-runtime-2.3.1-3 C:\Users\HP\.gradle\caches\transforms-3\25a884faa36a531a9e5f369d596bbf88\transformed\lifecycle-runtime-2.3.1\res
+com.example.notes_app-jetified-play-services-base-18.0.1-4 C:\Users\HP\.gradle\caches\transforms-3\456feef7530341a2c919967cc4dde951\transformed\jetified-play-services-base-18.0.1\res
+com.example.notes_app-core-1.12.0-5 C:\Users\HP\.gradle\caches\transforms-3\6247dd56d81c6b16d694b7768e18cada\transformed\core-1.12.0\res
+com.example.notes_app-jetified-firebase-common-20.4.2-6 C:\Users\HP\.gradle\caches\transforms-3\89c6fd71728d0adae7dd67686aa1cdf7\transformed\jetified-firebase-common-20.4.2\res
+com.example.notes_app-browser-1.4.0-7 C:\Users\HP\.gradle\caches\transforms-3\9186a72439cdfe13d23082d88530cc56\transformed\browser-1.4.0\res
+com.example.notes_app-jetified-play-services-basement-18.1.0-8 C:\Users\HP\.gradle\caches\transforms-3\95e76454cff392b3dff66e1259c7e57f\transformed\jetified-play-services-basement-18.1.0\res
+com.example.notes_app-jetified-annotation-experimental-1.3.0-9 C:\Users\HP\.gradle\caches\transforms-3\ae329bc8a0eb87982c4fe41e3ec5da7f\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.notes_app-jetified-ads-adservices-java-1.0.0-beta05-10 C:\Users\HP\.gradle\caches\transforms-3\c2b2752c2a3803aa0d48ac0648df0ac9\transformed\jetified-ads-adservices-java-1.0.0-beta05\res
+com.example.notes_app-jetified-core-ktx-1.12.0-11 C:\Users\HP\.gradle\caches\transforms-3\de312b122ff8f91227f080e64c7d0f0f\transformed\jetified-core-ktx-1.12.0\res
+com.example.notes_app-jetified-ads-adservices-1.0.0-beta05-12 C:\Users\HP\.gradle\caches\transforms-3\f946bbdf748685f18f7f29a2dff72970\transformed\jetified-ads-adservices-1.0.0-beta05\res
+com.example.notes_app-debug-13 C:\Users\HP\Flutter Projects\notes_app\android\app\src\debug\res
+com.example.notes_app-main-14 C:\Users\HP\Flutter Projects\notes_app\android\app\src\main\res
+com.example.notes_app-pngs-15 C:\Users\HP\Flutter Projects\notes_app\build\app\generated\res\pngs\debug
+com.example.notes_app-resValues-16 C:\Users\HP\Flutter Projects\notes_app\build\app\generated\res\resValues\debug
+com.example.notes_app-rs-17 C:\Users\HP\Flutter Projects\notes_app\build\app\generated\res\rs\debug
+com.example.notes_app-mergeDebugResources-18 C:\Users\HP\Flutter Projects\notes_app\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.notes_app-mergeDebugResources-19 C:\Users\HP\Flutter Projects\notes_app\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.notes_app-merged_res-20 C:\Users\HP\Flutter Projects\notes_app\build\app\intermediates\merged_res\debug
+com.example.notes_app-packaged_res-21 C:\Users\HP\Flutter Projects\notes_app\build\cloud_firestore\intermediates\packaged_res\debug
+com.example.notes_app-packaged_res-22 C:\Users\HP\Flutter Projects\notes_app\build\firebase_analytics\intermediates\packaged_res\debug
+com.example.notes_app-packaged_res-23 C:\Users\HP\Flutter Projects\notes_app\build\firebase_auth\intermediates\packaged_res\debug
+com.example.notes_app-packaged_res-24 C:\Users\HP\Flutter Projects\notes_app\build\firebase_core\intermediates\packaged_res\debug
+com.example.notes_app-packaged_res-25 C:\Users\HP\Flutter Projects\notes_app\build\path_provider_android\intermediates\packaged_res\debug
+com.example.notes_app-packaged_res-26 C:\Users\HP\Flutter Projects\notes_app\build\share_plus\intermediates\packaged_res\debug
+com.example.notes_app-packaged_res-27 C:\Users\HP\Flutter Projects\notes_app\build\sqflite\intermediates\packaged_res\debug
